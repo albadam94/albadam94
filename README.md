@@ -10,7 +10,7 @@ Hola!! soy Brayan Albadam Diseñador Multimedia y Front-End Developer. del progr
 * 🖥️  Este es mi portafolio [Web Portafolio](http://albadamdisenadormultimedia.netlify.app/)
 * ✉️  Puedes contactarme aqui 👀 [Brayanalbadam@yahoo.com](mailto:Brayanalbadam@yahoo.com)
 * 🧠  Estoy estudiando Diseño Multimedia
-* 🤝  Abierto a colaborar en areas de diseño web, marcas y desarrollo web.
+* 🤝  Abierto a colaborar en areas de diseño web, branding y desarrollo web.
 
 ### Skills
 
