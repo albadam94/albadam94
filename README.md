@@ -7,7 +7,7 @@ Ux Engineer
 Hola!! soy Brayan Albadam Diseñador Multimedia y Desarrollador de aplicaciones WEB del Diplomado Misión TIC 2022. Tengo experiencia en medios de comunicación, radio y televisión.  También me he desempeñado en las areas de comunicación digital, periodismo digital, administración de contenido, periodismo en radio y TV Host. En el area de diseño he realizado las marcas para pequeñas y medianas empresas personas profesionales. También fui seleccionado como semifinalista en el concurso de rediseño del logo del aeropuerto de México Felipe Ángeles
 
 * 🌍  Estoy en Colombia
-* 🖥️  Este es mi portafolio [Web Portafolio](http://albadamdisenadormultimedia.netlify.app/)
+* 🖥️  Este es mi portafolio [Web Portafolio](http://uxalbadam.com)
 * ✉️  Puedes contactarme aqui 👀 [Brayanalbadam@gmail.com](mailto:Brayanalbadam@gmail.com)
 * 🧠  Diseñador Multimedia | UX-UI | Web Development
 * 🤝  Abierto a colaborar en areas de diseño web, Ux-Ui, diseño de marca y desarrollo web.
