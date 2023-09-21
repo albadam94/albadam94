@@ -4,7 +4,9 @@ Hola 👋 soy Brayan Albadam 👨‍💻
 UX Engineer
 ----------------------------
 
-Hola!! soy Brayan Albadam Diseñador Multimedia y Desarrollador de aplicaciones WEB del Diplomado Misión TIC 2022. Tengo experiencia en medios de comunicación, radio y televisión.  También me he desempeñado en las areas de comunicación digital, periodismo digital, administración de contenido, periodismo en radio y TV Host. En el area de diseño he realizado las marcas para pequeñas y medianas empresas personas profesionales. También fui seleccionado como semifinalista en el concurso de rediseño del logo del aeropuerto de México Felipe Ángeles
+Hola!! 👋 soy Brayan Albadam, diseñador multimedia y desarrollador Frontend del diplomado Misión TIC 2022 de la Universidad Industrial de Santander y certificado profesionalmente en diseño de experiencia de usuario por Google y diseño de experiencia de usuario y consumidor de la Universidad San Buenaventura Cali.
+
+Me he destacado en el área del diseño, creando marcas para pequeñas y medianas empresas, así como para profesionales. Además, tengo experiencia como desarrollador web en WordPress y como líder de implementación de una plataforma educativa para usuarios en Centroamérica, donde enfoqué mis habilidades en el diseño de experiencia de usuario, realizando los UserFlow, UX Task, arquitectura de información por roles, pruebas de usuario, desarrollo en HTML y CSS y consultas de información con API usando Postman. 
 
 * 🌍  Estoy en Colombia
 * 🖥️  Este es mi portafolio [Web Portafolio](http://uxalbadam.com)
