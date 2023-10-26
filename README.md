@@ -1,7 +1,7 @@
 Hola 👋 soy Brayan Albadam 👨‍💻
 ===============================
 
-UX Engineer
+UX/UI Designer | Frontend
 ----------------------------
 
 Hola!! 👋 soy Brayan Albadam, diseñador multimedia y desarrollador Frontend del diplomado Misión TIC 2022 de la Universidad Industrial de Santander y certificado profesionalmente en diseño de experiencia de usuario por Google y diseño de experiencia de usuario y consumidor de la Universidad San Buenaventura Cali.
