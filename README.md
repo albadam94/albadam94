@@ -9,7 +9,7 @@ Hola!! 👋 soy Brayan Albadam, diseñador multimedia y desarrollador Frontend d
 Me he destacado en el área del diseño, creando marcas para pequeñas y medianas empresas, así como para profesionales. Además, tengo experiencia como desarrollador web en WordPress y como líder de implementación de una plataforma educativa para usuarios en Centroamérica, donde enfoqué mis habilidades en el diseño de experiencia de usuario, realizando los UserFlow, UX Task, arquitectura de información por roles, pruebas de usuario, desarrollo en HTML y CSS y consultas de información con API usando Postman. 
 
 * 🌍  Estoy en Colombia
-* 🖥️  Este es mi portafolio [Web Portafolio](http://uxalbadam.com)
+* 🖥️  Este es mi portafolio [Web Portafolio](https://uxalbadam.netlify.app/)
 * ✉️  Puedes contactarme aqui 👀 [Brayanalbadam@gmail.com](mailto:Brayanalbadam@gmail.com)
 * 🧠  Diseñador Multimedia | UX-UI | Web Development
 * 🤝  Abierto a colaborar en areas de diseño web, Ux-Ui, diseño de marca y desarrollo web.
